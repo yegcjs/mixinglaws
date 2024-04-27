@@ -2,8 +2,6 @@
 
 Code and data for "Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance"
 
-We are going to describe our codes and data in more detail soon. Please stay tuned!
-
 ## Citation
 ```
 @article{ye2024datamixinglaws,
