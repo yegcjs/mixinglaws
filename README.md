@@ -1,6 +1,6 @@
 # Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance
 
-Code and data for "Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance"
+Code and data for "[Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance](https://arxiv.org/abs/2403.16952)"
 
 ## Data Mixing Laws
 
