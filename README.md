@@ -1,6 +1,6 @@
 # Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance
 
-Code and data for "[Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance](https://arxiv.org/abs/2403.16952)"
+Code and data for "[Data Mixing Laws: Optimizing Data Mixture by Predicting Language Modeling Performance (ICLR2025)](https://arxiv.org/abs/2403.16952)"
 
 ## Data Mixing Laws
 
@@ -19,10 +19,10 @@ bash run.sh
 
 ## Citation
 ```
-@article{ye2024datamixinglaws,
+@inproceedings{ye2025dml,
   title={Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance},
-  author={Ye, Jiasheng and Liu, Peiju and Sun, Tianxiang and Zhou, Yunhua and Zhan, Jun and Qiu, Xipeng},
-  journal={arXiv preprint arXiv:2403.16952},
-  year={2024}
+  author={Ye, Jiasheng and Liu, Peiju and Sun, Tianxiang and Zhan, Jun and Zhou, Yunhua and Qiu, Xipeng},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+  year={2025}
 }
 ```
